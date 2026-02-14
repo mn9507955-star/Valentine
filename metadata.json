@@ -1,0 +1,8 @@
+
+{
+  "name": "Valentine AI Particle Control",
+  "description": "Hệ thống hạt 3D tương tác bằng cử chỉ bàn tay sử dụng MediaPipe Hands và Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
